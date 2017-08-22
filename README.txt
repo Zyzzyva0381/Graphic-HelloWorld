@@ -8,4 +8,4 @@ the background music is made by bandari
 the font of 'hello,world' is from Java library
 the picture is from Scratch 2
 program by Zyzzyva038
-Released under a "Simplified BSD" license
+Released under a "CC BY-NC-ND 3.0" license
